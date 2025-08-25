@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [fast-food management system](https://github.com/ossamablt/licence_project)
 
-- 🌱 I’m currently learning **pandas , tenserflow , tkinter**
-
-- 👯 I’m looking to collaborate on [detection object use tenserflow](https://github.com/ossamablt/detection_tf)
-
-- 💬 Ask me about **html , css , javascript ,tkinter,python, reactjs , tailwind, sql , mysql**
+- 🌱 I’m currently learning **pandas , tenserflow , cloud computing(aws) **
 
 - 📫 How to reach me **majidblt0777@gamil.com**
 
