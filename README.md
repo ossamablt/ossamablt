@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ABDELMADJID BELILET</h1>
 <h3 align="center">A passionate frontend developer from ALGERIA</h3>
 
-- 🔭 I’m currently working on [fast-food management system](https://github.com/ossamablt/licence_project)
+- 🔭 I’m currently working on everyting
 
-- 🌱 I’m currently learning **pandas , tenserflow , cloud computing(aws) **
+- 🌱 I’m currently learning **swift, cloud computing(aws) **
 
 - 📫 How to reach me **majidblt0777@gamil.com**
 
