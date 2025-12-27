@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABDELMADJID BELILET</h1>
 <h3 align="center">A passionate frontend developer from ALGERIA</h3>
 
-- 🔭 I’m currently working on everyting
+- 🔭 I’m currently working on everything
 
 - 🌱 I’m currently learning **swift, cloud computing(aws) **
 
