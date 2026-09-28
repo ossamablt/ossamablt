@@ -62,12 +62,6 @@ A production-grade multi-agent orchestration platform for AI content generation.
 
 ---
 
-### [Tadabbur (تدبّر)](https://github.com/ossamablt) — AI Quran Reflection Companion
-> Hackathon Project · Next.js 15 PWA · Groq + Llama · Quran Foundation API · Multilingual
-
-Built for the Quran Foundation Hackathon. An AI-powered companion for deep Quran reflection, integrating the Quran Foundation Content & User APIs with a custom LLM orchestration layer. Multilingual (Arabic / English / French), offline-ready PWA.
-
----
 
 ## 📊 GitHub Stats
 
